@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'GRÁFICO: BATMAN v SUPERMAN Y SU LUGAR ENTRE EL TOP 10 DEL MUNDO.'
-datePublished: '2016-05-03T04:20:00.428Z'
-dateModified: '2016-05-03T04:18:11.588Z'
+datePublished: '2016-05-03T04:23:06.864Z'
+dateModified: '2016-05-03T04:20:02.070Z'
 title: ''
 author: []
 authors: []
@@ -27,3 +27,5 @@ GRÁFICO: BATMAN v SUPERMAN Y SU LUGAR ENTRE EL TOP 10 DEL MUNDO.
 
 Con $862 millones de dólares recabados hasta esta fecha BvS se encuentra en 7mo lugar global, entre Spider-Man3 y Spider-Man (Sam Rami).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ee2841b-1a87-4c6a-82cd-4fba3080a3a3.jpg)
+
+El 62% de sus ganancias se encuentran en el mercado internacional ya que recaudó $325.1 MDD en taquilla nacional. La cinta recaudó $36 MDD quedando en 4to lugar global.
