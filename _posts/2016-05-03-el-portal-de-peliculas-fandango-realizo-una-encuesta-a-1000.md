@@ -5,24 +5,27 @@ inNav: false
 inLanguage: null
 keywords: []
 description: El portal de películas FANDANGO realizó una encuesta a 1000 usuarios que habían comprado boletos para las funciones de Captain America Civil War y les preguntó cuál de los personajes que sale en la película debería de tener su propio filme.
-datePublished: '2016-05-03T17:09:57.923Z'
-dateModified: '2016-05-03T17:09:19.891Z'
-title: ''
-author: []
+datePublished: '2016-05-03T19:26:09.244Z'
+dateModified: '2016-05-03T19:25:35.059Z'
+title: 'BLACK WIDOW, LA MÁS SOLICITADA POR EL PÚBLICO'
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-03-el-portal-de-peliculas-fandango-realizo-una-encuesta-a-1000.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-03-el-portal-de-peliculas-fandango-realizo-una-encuesta-a-1000.md
-published: true
+starred: true
 url: el-portal-de-peliculas-fandango-realizo-una-encuesta-a-1000/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fff8368-31a9-44ee-81f6-7615c7fbe7d8.jpg)
+# BLACK WIDOW, LA MÁS SOLICITADA POR EL PÚBLICO
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9665fc-8f90-40b5-8963-6647f9b38b2d.jpg)
 
 El portal de películas FANDANGO realizó una encuesta a 1000 usuarios que habían comprado boletos para las funciones de Captain America Civil War y les preguntó cuál de los personajes que sale en la película debería de tener su propio filme.
 
