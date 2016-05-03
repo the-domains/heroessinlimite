@@ -1,6 +1,6 @@
 name: HeroesSinLimite
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.26012
 typography_spectrum: 0.6004
 title: Héroes Sin Límite
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#121818'
-    - '#82a3ac'
-    - '#feecde'
-    - '#465a5b'
-    - '#d62027'
-  brandStrength: 0.25
+    - '#181818'
+    - '#ffffff'
+    - '#ed1d25'
+    - '#b7b5b6'
+    - '#93302a'
+  brandStrength: 0.5
   lightness: 0
-  saturation: 0.8125
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
