@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T04:03:33.466Z'
-dateModified: '2016-05-03T04:02:14.809Z'
+datePublished: '2016-05-03T04:08:07.330Z'
+dateModified: '2016-05-03T04:03:41.754Z'
 title: 'RESEÑA: CAPTAIN AMERICA CIVIL WAR'
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-03-resena-captain-america-civil-war.md
 published: true
+starred: true
 url: resena-captain-america-civil-war/index.html
 _type: Article
 
