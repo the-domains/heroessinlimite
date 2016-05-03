@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'El famoso autor de novleas gráficas Alan Moore, quien ha escrito varias de las historias más clásicas de Cómics comentó en una entrevista con la revista MANIA en 2009 que su novela gráfica THE KILLING JOKE ha sido “mal interpretada” por muchas personas. “Nunca fue escrita con el objetivo de convertirse en una tendencia para todos los cómics, más que todo era un experimento que tuvo un éxito inesperado”, comentó Moore sobre su Novela Gráfica que está siendo adaptada a una película animada por parte de DC y que será estrenada este verano. '
-datePublished: '2016-05-03T16:27:01.543Z'
-dateModified: '2016-05-03T16:26:36.864Z'
+datePublished: '2016-05-03T16:28:10.994Z'
+dateModified: '2016-05-03T16:27:04.755Z'
 author: []
 title: ' THE KILLING JOKE NO ES UNA DE MIS HISTORIAS FAVORITAS: ALAN MOORE'
 sourcePath: _posts/2016-05-03-the-killing-joke-no-es-una-de-mis-historias-favoritas-alan.md
