@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T00:57:11.391Z'
-dateModified: '2016-05-03T00:56:06.439Z'
+datePublished: '2016-05-03T01:00:36.947Z'
+dateModified: '2016-05-03T00:59:46.121Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-03-galeria-clasica-de-villanos-para-batman.md
 published: true
 authors: []
@@ -22,4 +24,4 @@ url: galeria-clasica-de-villanos-para-batman/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a041ed1c-139e-41a3-9f79-c3226e7e514e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42a12ae63d0797d11eaead9d807cb53580a54245.jpg)
