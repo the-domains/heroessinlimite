@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: La segunda secuela de Capitán América sobrepasa $200 Millones de Dólares a nivel global en su primer fin de semana.
-datePublished: '2016-05-03T00:50:08.397Z'
-dateModified: '2016-05-03T00:49:59.606Z'
+datePublished: '2016-05-03T01:01:38.114Z'
+dateModified: '2016-05-03T01:01:33.212Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-la-segunda-secuela-de-capitan-america-sobrepasa-dollar200-millone.md
