@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'El director Seth Grahame-Smith se separa de la producción de FLASH después de declarar que tuvo "diferencias creativas" con el estudio.'
-datePublished: '2016-05-03T01:57:46.351Z'
-dateModified: '2016-05-03T01:57:29.187Z'
+datePublished: '2016-05-03T02:07:48.823Z'
+dateModified: '2016-05-03T02:06:33.399Z'
 title: ''
 author:
   - name: ''
