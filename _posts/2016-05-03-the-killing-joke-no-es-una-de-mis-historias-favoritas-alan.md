@@ -1,16 +1,25 @@
 ---
-author: []
-title: ' THE KILLING JOKE NO ES UNA DE MIS HISTORIAS FAVORITAS: ALAN MOORE'
-description: 'El famoso autor de novleas gráficas Alan Moore, quien ha escrito varias de las historias más clásicas de Cómics comentó en una entrevista con la revista MANIA en 2009 que su novela gráfica THE KILLING JOKE ha sido “mal interpretada” por muchas personas.'
-dateModified: '2016-05-03T15:19:53.951Z'
-datePublished: '2016-05-03T15:20:20.030Z'
-starred: false
-sourcePath: _posts/2016-05-03-the-killing-joke-no-es-una-de-mis-historias-favoritas-alan.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: 'El famoso autor de novleas gráficas Alan Moore, quien ha escrito varias de las historias más clásicas de Cómics comentó en una entrevista con la revista MANIA en 2009 que su novela gráfica THE KILLING JOKE ha sido “mal interpretada” por muchas personas.'
+datePublished: '2016-05-03T16:07:35.641Z'
+dateModified: '2016-05-03T16:07:33.697Z'
+author: []
+title: ' THE KILLING JOKE NO ES UNA DE MIS HISTORIAS FAVORITAS: ALAN MOORE'
+sourcePath: _posts/2016-05-03-the-killing-joke-no-es-una-de-mis-historias-favoritas-alan.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # THE KILLING JOKE NO ES UNA DE MIS HISTORIAS FAVORITAS: ALAN MOORE
