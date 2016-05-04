@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Comic Con International ha publicado un comunicado en respuesta a la decisión tomada por los Estudios 20th Century Fox de cancelar su panel de Presentación que tenía agendada para el evento en Julio del presente año.
-datePublished: '2016-05-03T20:06:18.195Z'
-dateModified: '2016-05-03T20:06:11.384Z'
+datePublished: '2016-05-04T02:28:32.087Z'
+dateModified: '2016-05-04T02:28:22.319Z'
 title: COMIC-CON RESPONDE AL VETO DE FOX DE SUS PÁNELES
 author: []
+sourcePath: _posts/2016-05-03-comic-con-responde-al-veto-de-fox-de-sus-paneles.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-03-comic-con-responde-al-veto-de-fox-de-sus-paneles.md
-published: true
 url: comic-con-responde-al-veto-de-fox-de-sus-paneles/index.html
 _type: Article
 
