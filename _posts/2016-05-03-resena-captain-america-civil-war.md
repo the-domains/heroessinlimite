@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Marvel Studios sigue sumando éxitos en su Universo Cinematográfico con la segunda secuela de Capitán América.
-datePublished: '2016-05-04T02:29:05.595Z'
-dateModified: '2016-05-04T02:28:57.604Z'
+datePublished: '2016-05-04T02:50:13.769Z'
+dateModified: '2016-05-04T02:50:08.094Z'
 title: 'RESEÑA: CAPTAIN AMERICA CIVIL WAR'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-03-resena-captain-america-civil-war.md
 published: true
 authors: []
@@ -39,7 +41,7 @@ La tarea de producir una secuela a WS que, no solo llegara al nivel, sino que so
 
 Rápidamente la película nos hace entender que vivimos en un mundo dividido entre los que apoyan a los superhéroes y los que buscan que estos respondan a una autoridad, y es aquí donde la Tesis del filme se hace ver ¿Qué significa ser libre? ¿Hasta dónde soy responsable de mis acciones? ¿A quién debo responder por mis faltas? ¿Se puede confiar en las instituciones humanas? Todas estas preguntas forman el centro filosófico y humano de la historia y será lo que enfrentará a nuestros personajes y es que las mejores y más épicas batallas no se libraron solamente por la búsqueda del poder, sino por el enfrentamiento de las ideas, ya que no hay nada más peligroso y contagioso que una idea.
 
-Es aquí donde se encuentra la riqueza de Civil War, el conflicto humano, el cual alimenta la película, le da forma y vitalidad. A esto se suma la pérdida de los seres queridos y la búsqueda de la identidad del protagonista y antagonista de la cinta. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a40f1a-8777-4e0a-b8b7-f06f2868a5d3.jpg)
+Es aquí donde se encuentra la riqueza de Civil War, el conflicto humano, el cual alimenta la película, le da forma y vitalidad. A esto se suma la pérdida de los seres queridos y la búsqueda de la identidad del protagonista y antagonista de la cinta. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e33ae9d3dd5a70f323250c5af219253bcd217a70.jpg)
 
 Todos los personajes que son presentados en este filme tienen que tomar una decisión, no siempre es la correcta, pero es justamente esto lo que la vuelve tan humana. No hay nada más trágico que ver amistades romper y hermandades alejarse, sin embargo Civil War logra equilibrar todo esto con chistes, acción y momentos agradables que hacen que el espectador se enamore de todos ellos.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c4c5dfd-4d8e-4236-a2b4-c3881bc2ecc1.jpg)
