@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Ben Affleck y Geoff Johns están preparando un universo amplio y seleccionado de los mejores personajes míticos para hacerle la vida imposible al Caballero de la Noche.
-datePublished: '2016-05-03T01:12:26.881Z'
-dateModified: '2016-05-03T01:10:28.289Z'
+datePublished: '2016-05-04T02:06:52.059Z'
+dateModified: '2016-05-04T02:06:51.738Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: galeria-clasica-de-villanos-para-batman/index.html
 _type: Article
 
