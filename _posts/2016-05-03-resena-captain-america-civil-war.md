@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T04:08:07.330Z'
-dateModified: '2016-05-03T04:03:41.754Z'
+datePublished: '2016-05-04T02:05:59.092Z'
+dateModified: '2016-05-03T04:08:09.800Z'
 title: 'RESEÑA: CAPTAIN AMERICA CIVIL WAR'
 author: []
+sourcePath: _posts/2016-05-03-resena-captain-america-civil-war.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-05-03-resena-captain-america-civil-war.md
-published: true
 starred: true
 url: resena-captain-america-civil-war/index.html
 _type: Article
@@ -47,3 +47,7 @@ Todos los personajes que son presentados en este filme tienen que tomar una deci
 Una de las grandes y más agradables sorpresas es la introducción de Spider-Man al universo cinematográfico de Marvel. Su historia se siente fresca, chistosa y trae una emoción inocente que es representativa del héroe arácnido. Tom Holland representa al Peter Parker clásico de Marvel y cada minuto que está en pantalla es agradable y bien recibido.
 
 Desgraciadamente no podemos decir que esta es una película perfecta, cuenta con sus detalles, sigue contando con un villano, aunque más humano y relativamente empático, no es convincente. Marvel no ha logrado crear desde Loki a un antagonista digno de sus héroes y esto debilita la trama. También hay algunos detalles de continuidad que si uno se pone a analizar quitan el velo de ilusión de la trama.
+
+Captain America Civil War es una excelente película. Digna de iniciar la fase 3 de Marvel. Solo hace falta esperar que las siguientes producciones de Marvel estén a la par de esta entrega. Ya quiero ver DR. STRANGE.
+
+CALIFICACIÓN: 9.3 de 10
