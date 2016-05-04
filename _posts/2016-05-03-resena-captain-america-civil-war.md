@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Marvel Studios sigue sumando éxitos en su Universo Cinematográfico con la segunda secuela de Capitán América.
-datePublished: '2016-05-04T02:13:04.608Z'
-dateModified: '2016-05-04T02:12:53.332Z'
+datePublished: '2016-05-04T02:29:05.595Z'
+dateModified: '2016-05-04T02:28:57.604Z'
 title: 'RESEÑA: CAPTAIN AMERICA CIVIL WAR'
 author: []
 sourcePath: _posts/2016-05-03-resena-captain-america-civil-war.md
