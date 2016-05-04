@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Batman v Superman la 7ma más taquillera de todos los tiempos a Nivel Mundial
-datePublished: '2016-05-03T00:04:10.710Z'
-dateModified: '2016-05-03T00:03:19.176Z'
+description: Batman v Superman sobrepasa las malas críticas y se posiciona en el séptimo lugar de las películas más taquilleras de todos los tiempos.
+datePublished: '2016-05-04T02:07:47.993Z'
+dateModified: '2016-05-04T02:07:17.021Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-bvs-entre-las-7-mejores-a-nivel-mundial.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,15 +18,13 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-03-bvs-entre-las-7-mejores-a-nivel-mundial.md
-published: true
 url: bvs-entre-las-7-mejores-a-nivel-mundial/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4b06afb-396e-4868-bc70-274ae881392b.jpg)
 
-Batman v Superman la 7ma más taquillera de todos los tiempos a Nivel Mundial
+Batman v Superman sobrepasa las malas críticas y se posiciona en el séptimo lugar de las películas más taquilleras de todos los tiempos.
 
 La cinta que inicia el Universo Cinematográfico de DC protagonizada por Henry Cavil (Superman) y Ben Affleck y dirigida por Zack Snyder logró recabar $862 Millones de Dólares a nivel global quedando entre Spiderman 3 y Spiderman.
 
