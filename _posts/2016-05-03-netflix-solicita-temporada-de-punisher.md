@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'NETFLIX agrega otra serie basada en el universo "urbano" de Marvel Studios. Tras el éxito del personaje presentado en la 2a Temporada de Daredevil, Frank Castle "The Punisher" contará con su propia serie que será distribuida via el sitio web.'
-datePublished: '2016-05-03T02:08:53.154Z'
-dateModified: '2016-05-03T01:32:01.022Z'
+datePublished: '2016-05-04T02:48:06.572Z'
+dateModified: '2016-05-03T02:08:57.662Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-netflix-solicita-temporada-de-punisher.md
