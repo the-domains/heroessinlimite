@@ -24,6 +24,6 @@ color:
     - '#93302a'
   brandStrength: 0.125
   lightness: 0
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.25
 purpose: []
