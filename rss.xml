@@ -4,7 +4,7 @@
         <description><![CDATA[Héroes Sin Límite]]></description>
         <link>https://thegrid.ai/heroessinlimite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 00:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 00:41:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/heroessinlimite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NO LLEVARÁN EL TÍTULO DE PARTE 1 Y 2]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Tue, 03 May 2016 19:41:22 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ALDEN EHRENREICH, NUEVO HAN SOLO]]></title>
+            <description><![CDATA[<article><h1>ALDEN EHRENREICH, NUEVO HAN SOLO</h1><p>La cinta narrará las aventuras del contrabandista previo a los hechos ocurridos en Episodio IV de Star Wars y estará dirige por Phil Lord and Christopher Miller, quienes escribieron el guión de Lego Movie. </p></article>]]></description>
+            <link>https://thegrid.ai/heroessinlimite/alden-ehrenreich-nuevo-han-solo/index.html</link>
+            <guid isPermaLink="false">ae1d61b9-23c3-46ba-a56d-56355d6b708b</guid>
+            <pubDate>Sat, 07 May 2016 00:40:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[BATMAN v SUPERMAN VENCE A CIVIL WAR EN TAQUILLA DE JUEVES POR LA NOCHE]]></title>
             <description><![CDATA[<article><h1>BATMAN v SUPERMAN VENCE A CIVIL WAR EN TAQUILLA DE JUEVES POR LA NOCHE</h1><p>Según los números de taquilla la expectativa de ver a Batman y Superman pelear entre sí fue mayor que la de ver a los héroes de Marvel enfrentarse unos a los otros.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8991194bb16b31e8b25156d88fa4630b5f14d5a9.jpg"></article>]]></description>
             <link>https://thegrid.ai/heroessinlimite/batman-v-superman-vence-a-civil-war-en-taquilla-de-jueves-po/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/heroessinlimite/the-killing-joke-tiene-fecha-de-estreno/index.html</link>
             <guid isPermaLink="false">ff0638e2-c2e2-4b41-9b57-69e55693f5da</guid>
             <pubDate>Wed, 04 May 2016 13:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DEADPOOL VENCE A BATMAN v SUPERMAN]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a574d632-2f5d-4551-b3e2-af8a44bf342c.jpg">]]></description>
-            <link>https://thegrid.ai/heroessinlimite/deadpool-vence-a-batman-v-superman/index.html</link>
-            <guid isPermaLink="false">7829b3df-ce11-4f5f-9d51-fd631204d84a</guid>
-            <pubDate>Wed, 04 May 2016 03:53:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
