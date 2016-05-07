@@ -2,13 +2,13 @@ name: HeroesSinLimite
 favicon: null
 layout_spectrum: 0.36417
 typography_spectrum: 0.53104
-title: Héroes Sin Límite
+title: Héroes sin Límite
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77397683-1
   facebook: null
   twitter: null
 opengraph:
