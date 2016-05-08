@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Captain America Civil War recabó $181.79 Millones de Dólares en su primer fin de semana en los Estados Unidos, logrando quedar en 5ta mejor apertura de filmes de todos los tiempos y la tercer más grande del Universo de Marvel, detrás de Avengers y Age of Ultron.'
-datePublished: '2016-05-08T22:18:45.934Z'
-dateModified: '2016-05-08T22:18:22.954Z'
+datePublished: '2016-05-08T22:19:53.075Z'
+dateModified: '2016-05-08T22:19:40.311Z'
 title: 'CIVIL WAR TIENE LA 5ta MEJOR APERTURA EN LA HISTORIA '
 author:
   - name: ''
@@ -34,3 +34,4 @@ La cinta tuvo una recepción positiva con la crítica logrando un 91% en Rottent
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5026064d3d7959c1cf74c132773c96df8219142e.png)
 
 Con el éxito en las taquillas norteamericanas la segunda secuela de Capitán América sobrepasó a Batman v Superman las ganancias generadas en su primer fin de semana; sin dejar de contar que ha logrado recaudar más de $600 Millones de Dólares a nivel internacional y se ve en camino a rebasar los $1,000 Millones de Dólares en 2016\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5329c65-2067-4abe-8ea4-1658f85e2524.jpg)
