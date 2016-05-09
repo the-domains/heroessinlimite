@@ -1,4 +1,4 @@
-name: HeroesSinLimite
+name: Heroes sin Limite
 favicon: null
 layout_spectrum: 0.36417
 typography_spectrum: 0.53104
@@ -22,8 +22,8 @@ color:
     - '#ed1d25'
     - '#b7b5b6'
     - '#93302a'
-  brandStrength: 0.5
-  lightness: 0.1875
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
