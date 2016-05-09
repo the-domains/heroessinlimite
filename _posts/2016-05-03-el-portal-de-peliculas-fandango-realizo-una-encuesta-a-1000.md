@@ -4,28 +4,27 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: El portal de películas FANDANGO realizó una encuesta a 1000 usuarios que habían comprado boletos para las funciones de Captain America Civil War y les preguntó cuál de los personajes que sale en la película debería de tener su propio filme.
-datePublished: '2016-05-04T02:48:49.426Z'
-dateModified: '2016-05-04T02:05:43.992Z'
+description: 'La respuesta fue contundente, un 48% del público contestó que Black Widow debería ser el siguiente personaje de los Avengers en estrenar filme. '
+datePublished: '2016-05-09T01:47:39.626Z'
+dateModified: '2016-05-09T01:47:29.078Z'
 title: 'BLACK WIDOW, LA MÁS SOLICITADA POR EL PÚBLICO'
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-03-el-portal-de-peliculas-fandango-realizo-una-encuesta-a-1000.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: el-portal-de-peliculas-fandango-realizo-una-encuesta-a-1000/index.html
 _type: Article
 
 ---
 # BLACK WIDOW, LA MÁS SOLICITADA POR EL PÚBLICO
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9665fc-8f90-40b5-8963-6647f9b38b2d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da2a1ec0-d345-40b5-a706-6451a11d6522.jpg)
 
 El portal de películas FANDANGO realizó una encuesta a 1000 usuarios que habían comprado boletos para las funciones de Captain America Civil War y les preguntó cuál de los personajes que sale en la película debería de tener su propio filme.
 
