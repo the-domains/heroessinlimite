@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Captain America Civil War recabó $181.79 Millones de Dólares en su primer fin de semana en los Estados Unidos, logrando quedar en 5ta mejor apertura de filmes de todos los tiempos y la tercer más grande del Universo de Marvel, detrás de Avengers y Age of Ultron.'
-datePublished: '2016-05-08T22:20:30.382Z'
-dateModified: '2016-05-08T22:20:20.218Z'
+datePublished: '2016-05-10T03:17:59.679Z'
+dateModified: '2016-05-10T02:34:16.567Z'
 title: 'CIVIL WAR TIENE LA 5ta MEJOR APERTURA EN LA HISTORIA '
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: civil-war-tiene-la-5ta-mejor-apertura-en-la-historia/index.html
 _type: Article
 
