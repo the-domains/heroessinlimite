@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Anthony y Joe Russo, los directores de la nueva secuela de Capitán América, CIVIL WAR comentaron en una entrevista con el portal de noticias COLLIDER que después de terminar con la segunda película de Avengers en 2019 si siguieran trabajando con Marvel Studios buscarían hacer una película de WOLVERINE.'
-datePublished: '2016-05-06T22:54:12.336Z'
-dateModified: '2016-05-06T22:54:07.970Z'
+datePublished: '2016-05-10T03:17:39.153Z'
+dateModified: '2016-05-08T21:58:09.526Z'
 title: 'QUEREMOS A WOLVERINE: HNOS. RUSSO'
 author: []
 sourcePath: _posts/2016-05-05-queremos-a-wolverine-hnos-russo.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: queremos-a-wolverine-hnos-russo/index.html
 _type: Article
 
