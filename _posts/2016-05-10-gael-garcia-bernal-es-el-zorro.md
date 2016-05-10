@@ -5,20 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T01:40:44.170Z'
-dateModified: '2016-05-10T01:40:12.192Z'
+datePublished: '2016-05-10T05:56:28.085Z'
+dateModified: '2016-05-10T05:52:32.349Z'
 title: 'GAEL GARCÍA BERNAL ES "EL ZORRO"'
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-10-gael-garcia-bernal-es-el-zorro.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-10-gael-garcia-bernal-es-el-zorro.md
+starred: true
 url: gael-garcia-bernal-es-el-zorro/index.html
 _type: Article
 
@@ -30,4 +30,4 @@ El aclamado actor reconocido internacionalmente por "Y tu mamá también", "The 
 
 El productor de la serie Mark Amin comentó sobre la contratación del actor "Siempre quise tener a Gael en este papel. Zorro es un héroe carismático, ingenioso e inteligente. Gael posee todas esas características y tiene y es capaz de darle un giro moderno para re-introducir el personaje de El Zorro a una nueva audiencia".
 
-La nueva versión de El Zorro, la cual se le conoció en algún momento como "Zorro Reborn" (Zorro Renacido) y que ahora es conocida como "Z", reintroduce al personaje en un paisaje neofuturísta, e inclusive, post-apocalíptico. Se dice que la nueva serie toma su inspiración de cintas como Dark Knight-esque, which is funny considering the Zorro tale served as inspiration for Batman. However, one would presume a few changes were enacted because the reboot bore the title Zorro Reborn when it was first announced last year and recent press releases simply refer to it as Z.
+La nueva versión de El Zorro, la cual se le conoció en algún momento como "Zorro Reborn" (Zorro Renacido) y que ahora es conocida como "Z", reintroduce al personaje en un paisaje neofuturísta, e inclusive, post-apocalíptico.
