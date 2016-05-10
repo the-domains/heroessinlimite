@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Tomando en cuenta que en los últimos aós se ha convertido en una herramienta de mercadotecnia agregar los títulos de Parte 1 y Parte 2 a las películas que cierran las Mega Franquicias de Hollywood (por ejemplo Hunger Games: Sinsajo, Twilight, Harry Pother & The Deathly Hallows) los directores Anthony y Joe Russo confirmaron hoy que la más reciente producción de Avengers no seguirá con esta tendencia, por lo cual serán renombradas.'
-datePublished: '2016-05-08T22:03:51.227Z'
-dateModified: '2016-05-08T22:03:20.965Z'
+datePublished: '2016-05-10T03:18:26.642Z'
+dateModified: '2016-05-08T22:03:55.377Z'
 title: ''
 author:
   - name: ''
