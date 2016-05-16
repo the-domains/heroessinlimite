@@ -5,20 +5,20 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-16T19:47:39.324Z'
-dateModified: '2016-05-16T19:46:51.539Z'
+datePublished: '2016-05-16T19:53:16.781Z'
+dateModified: '2016-05-16T19:53:08.146Z'
 title: MARGOT ROBBIE PRODUCIRÁ Y PROTAGONIZARÁ PELÍCULA DE HARLEY QUINN
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-16-margot-robbie-producira-y-protagonizara-pelicula-de-harley-q.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-16-margot-robbie-producira-y-protagonizara-pelicula-de-harley-q.md
+starred: true
 url: margot-robbie-producira-y-protagonizara-pelicula-de-harley-q/index.html
 _type: Article
 
