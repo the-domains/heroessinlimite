@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-16T23:12:00.088Z'
-dateModified: '2016-05-16T23:11:27.543Z'
+datePublished: '2016-05-16T23:18:12.545Z'
+dateModified: '2016-05-16T23:12:20.127Z'
 title: TRANSFORMERS 5 ANUNCIA TÍTULO OFICIAL
 author:
   - name: ''
@@ -17,8 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-16-transformers-5-anuncia-titulo-oficial.md
+starred: true
 url: transformers-5-anuncia-titulo-oficial/index.html
 _type: Article
 
@@ -32,4 +32,4 @@ Michael Bay regresará por 5ta vez como Director de la película con un Guión e
 
 El filme contará con las participaciones estelares de Mark Wahlberg y Cade Yeager, quienes participaron en Age of Extintion; y como nuevo elenco estarán participando Isabela Moner y Jerrod Carmichael.
 
-Se ha mencionado que al término de este film se pretende producir una nueva película con Bumblebee
+Se ha mencionado que al término de este film se pretende producir una nueva película con Bumblebee como su personaje central y después se estará filmando Transformes 6\.
