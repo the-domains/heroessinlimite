@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Captain America Civil War logró un total de $940 Millones de Dólares en la taquilla internacional este fin de semana al mantenerse en 1er lugar en salas mundiales y en el mercado norte americano.
-datePublished: '2016-05-16T23:33:38.646Z'
-dateModified: '2016-05-16T23:33:09.217Z'
+datePublished: '2016-05-16T23:39:14.709Z'
+dateModified: '2016-05-16T23:33:46.671Z'
 title: CIVIL WAR CRUZA LOS $900 MDD
 author:
   - name: ''
