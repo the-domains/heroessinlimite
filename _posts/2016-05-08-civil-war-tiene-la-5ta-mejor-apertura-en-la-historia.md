@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Captain America Civil War recabó $181.79 Millones de Dólares en su primer fin de semana en los Estados Unidos, logrando quedar en 5ta mejor apertura de filmes de todos los tiempos y la tercer más grande del Universo de Marvel, detrás de Avengers y Age of Ultron.'
-datePublished: '2016-05-10T04:01:09.402Z'
-dateModified: '2016-05-10T04:01:00.970Z'
-title: 'CIVIL WAR TIENE LA 5ta MEJOR APERTURA EN LA HISTORIA '
+description: Captain America Civil War logró un total de $940 Millones de Dólares en la taquilla internacional este fin de semana al mantenerse en 1er lugar en salas mundiales y en el mercado norte americano.
+datePublished: '2016-05-16T23:33:38.646Z'
+dateModified: '2016-05-16T23:33:09.217Z'
+title: CIVIL WAR CRUZA LOS $900 MDD
 author:
   - name: ''
     url: ''
@@ -18,17 +18,16 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: civil-war-tiene-la-5ta-mejor-apertura-en-la-historia/index.html
 _type: Article
 
 ---
-# CIVIL WAR TIENE LA 5ta MEJOR APERTURA EN LA HISTORIA ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/953dee80-9357-4adf-88f5-c7c7b4518f78.jpg)
+# CIVIL WAR CRUZA LOS $900 MDD
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/953dee80-9357-4adf-88f5-c7c7b4518f78.jpg)
 
-Captain America Civil War recabó $181.79 Millones de Dólares en su primer fin de semana en los Estados Unidos, logrando quedar en 5ta mejor apertura de filmes de todos los tiempos y la tercer más grande del Universo de Marvel, detrás de Avengers y Age of Ultron.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/08b718445b64743af88abd2a4305050776349476.png)
+Captain America Civil War logró un total de $940 Millones de Dólares en la taquilla internacional este fin de semana al mantenerse en 1er lugar en salas mundiales y en el mercado norte americano.
 
-La cinta tuvo una recepción positiva con la crítica logrando un 91% en Rottentomatoes, una calificación de A en Cinemascore y estableció un record de venta de boletos en el sitio de Internet Fandango por lo que se esperaba que su primer fin de semana sobrepasara los $100 MDD.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5026064d3d7959c1cf74c132773c96df8219142e.png)
+La 13a cinta de Marvel se encuentra cerca de cruzar el umbral de los 1000 millones de dólares esta semana siendo el vigésimo quinto (25) filme que halla logrado recaudar esta cantidad y la 7ma cinta de superheroes que llega a este nivel detrás de Avenges, Avengers: Age of Ultron, Iron Man 3, The Dark Knight y The Dark Knight Rises.
 
-Con el éxito en las taquillas norteamericanas la segunda secuela de Capitán América sobrepasó a Batman v Superman las ganancias generadas en su primer fin de semana; sin dejar de contar que ha logrado recaudar más de $600 Millones de Dólares a nivel internacional y se ve en camino a rebasar los $1,000 Millones de Dólares en 2016\.
+Civil War es la cinta de Capitán América que más ha recaudado dinero dejando a Winter Soldier en 2o lugar y The First Avenger en el último lugar.
