@@ -1,4 +1,3 @@
-layout_spectrum: 0.37246717931702733
 typography_spectrum: 0.021568729309365153
 color:
   brandColors:
@@ -11,20 +10,21 @@ color:
   lightness: 0.0345493087079376
   saturation: 0.07174552674405277
   rhythmicContrast: 0.32967944093979895
-name: Heroes sin Limite
-favicon: null
-title: Héroes sin Límite
-description: Todo sobre Comics y el Cine
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77397683-1
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.37246717931702733
+analytics:
+  google: UA-77397683-1
+  facebook: null
+  twitter: null
+name: Heroes sin Limite
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Héroes sin Límite
+description: Donde el cine y los cómics se unen
 purpose: []
