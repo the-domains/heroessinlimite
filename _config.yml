@@ -26,7 +26,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3bd52aa-caa7-40fe-a1bd-2b5ba000570d.jpg
 title: Héroes sin límite
 description: Donde el cine y los cómics se unen
 purpose: []
