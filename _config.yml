@@ -11,7 +11,8 @@ color:
   saturation: 0.07174552674405277
   rhythmicContrast: 0.32967944093979895
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/078235fc-6645-4a2d-8195-d57bc6716e37.jpg
   type: null
   appId: 'https://www.facebook.com/heroessinlimite/'
 layout_spectrum: 0.37246717931702733
