@@ -1,7 +1,18 @@
+layout_spectrum: 0.37246717931702733
+typography_spectrum: 0.021568729309365153
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.7603592628147453
+  lightness: 0.0345493087079376
+  saturation: 0.07174552674405277
+  rhythmicContrast: 0.32967944093979895
 name: Heroes sin Limite
 favicon: null
-layout_spectrum: 0.20809
-typography_spectrum: 0.53297
 title: Héroes sin Límite
 description: Todo sobre Comics y el Cine
 cta:
@@ -16,15 +27,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#181818'
-    - '#ffffff'
-    - '#ed1d25'
-    - '#b7b5b6'
-    - '#93302a'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.6875
-  rhythmicContrast: 0.5
 purpose: []
