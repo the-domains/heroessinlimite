@@ -1,4 +1,21 @@
+name: Heroes sin Limite
+favicon: null
+layout_spectrum: 0.36417
 typography_spectrum: 0.53104
+title: Héroes sin Límite
+description: Todo sobre Comics y el Cine
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-77397683-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#181818'
@@ -6,25 +23,8 @@ color:
     - '#ed1d25'
     - '#b7b5b6'
     - '#93302a'
-  brandStrength: 0.3125
-  lightness: 0.1875
-  saturation: 1
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.36417
-analytics:
-  google: UA-77397683-1
-  facebook: null
-  twitter: null
-name: Heroes sin Limite
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Héroes sin Límite
-description: Todo sobre Comics y el Cine
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
